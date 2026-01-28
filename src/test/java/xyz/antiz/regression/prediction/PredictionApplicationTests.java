@@ -1,4 +1,4 @@
-package com.example.regression.prediction;
+package xyz.antiz.regression.prediction;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

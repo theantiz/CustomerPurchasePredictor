@@ -8,7 +8,7 @@
 		<version>3.4.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example.regression</groupId>
+	<groupId>xyz.antiz.regression</groupId>
 	<artifactId>prediction</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>prediction</name>

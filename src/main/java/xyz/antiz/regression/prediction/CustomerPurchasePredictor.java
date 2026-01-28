@@ -1,4 +1,4 @@
-package com.example.regression.prediction;
+package xyz.antiz.regression.prediction;
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.apache.commons.math3.stat.regression.SimpleRegression;
